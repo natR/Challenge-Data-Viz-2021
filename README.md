@@ -25,11 +25,11 @@ Projet accepté par le Conseil de l'Institut des Actuaires le 16 mars 2021
 
 
 # Tâches identifiées (voir les issues pour plus de détails)
-[ ] Rédiger le pitch d'ici fin avril + le formulaire d'inscription
-[ ] Réglement du concours ==> Samuel envoi une première monture fin avril
-[ ] Etablir une grille avec 5 critères max
-[ ] Composition du jury
-[ ] Données Covid
+- [ ] Rédiger le pitch d'ici fin avril + le formulaire d'inscription
+- [ ] Réglement du concours ==> Samuel envoi une première monture fin avril
+- [ ] Etablir une grille avec 5 critères max
+- [ ] Composition du jury
+- [ ] Données Covid
 
 
 
