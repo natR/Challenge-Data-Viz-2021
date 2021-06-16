@@ -6,7 +6,7 @@ Projet accepté par le Conseil de l'Institut des Actuaires le 16 mars 2021
 
 ## Plan de l'organisation
 
-- Date : du 1er octobre (17h ?) au 17 octobre 2021 (minuit)
+- Date : du 29 novembre midi ? au 13 décembre minuit 2021 (minuit)
 
 - Participants : M2 filières d'actuariat + DSA
 
