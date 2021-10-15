@@ -17,9 +17,10 @@ Projet accepté par le Conseil de l'Institut des Actuaires le 16 mars 2021
  2. un webinar organisationnel uniquement avec les participants ==> voir avec Samuel
 
 - Restitution :
-1. Vidéo de 3 minutes à délivrer au jury en amont du passage des candidats.
+1. Vidéo de 3 à 6 minutes à délivrer au jury en amont du passage des candidats.
 2. Présentation pptx 3 ou 4 slides max
-3. Passage des candidats : speech d'1 mn chacun pour présenter l'approche choisie
+3. Code
+4. Passage des candidats : speech d'1 mn chacun pour présenter l'approche choisie
 
 ## Composition du jury 
 
